@@ -1,0 +1,14 @@
+palabra
+computador
+teclado
+ventana
+archivo
+programa
+jugador
+letra
+juego
+modelo
+codigo
+pantalla
+historial
+java
