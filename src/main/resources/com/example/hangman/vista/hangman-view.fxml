@@ -19,7 +19,7 @@
             </padding>
             <Label text="Jugador:"/>
             <TextField fx:id="nombreField" promptText="Escriba su nombre" HBox.hgrow="ALWAYS"/>
-            <Button fx:id="nuevaPartidaButton" text="Nueva partida"/>
+            <Button fx:id="nuevaPartidaButton" text="Nueva partida" onAction="#iniciarPartida"/>
         </HBox>
     </top>
 
